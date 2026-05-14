@@ -1,0 +1,12 @@
+Jornel A. Atentar
+BSIT 3-B
+SIA 2
+Activity 1
+The Online Voting System is a web-based mini information system developed using the Laravel framework. This system allows users to view candidates based on their assigned positions such as President, Vice President, and Secretary. Users can also view detailed information about each candidate, including their party, platform, and profile image.
+# 📋 Summary of Activities Included
+
+The Online Voting System was developed using the Laravel framework to demonstrate basic web application development. The project includes creating routes, controllers, Blade templates, and passing data between pages.
+The activities started with creating the Laravel project and setting up routes for displaying candidates, viewing details, adding candidates, and voting. An `ItemController` was created to manage the system logic and candidate data.
+Blade templates were used to create a reusable layout with a header and footer. The system displays candidates grouped by categories such as President and Vice President. Each candidate has detailed information including name, party, platform, and image.
+Additional features such as a voting button, success/error notifications, and an add candidate form were also implemented. Session handling was used to prevent multiple voting.
+Overall, the project demonstrates Laravel routing, controller logic, Blade templating, data passing, form handling, and basic session management while providing a functional online voting system.
